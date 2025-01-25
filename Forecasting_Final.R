@@ -2,8 +2,6 @@
 ######################################################################################################################
 
 
-#Part 2
-
 install.packages("tidyverse")
 install.packages("ggplot2")
 library(forecast)
